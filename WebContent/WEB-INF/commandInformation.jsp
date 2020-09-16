@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Command information</title>
 </head>
 <body>
-
+	<p>Command information</p>
 </body>
 </html>

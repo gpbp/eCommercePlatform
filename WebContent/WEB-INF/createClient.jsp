@@ -33,7 +33,7 @@
                     <input type="email" id="email" name="email" value="" size="20" maxlength="60" />
                     <br />
                 </fieldset>
-                <input type="submit" value="Create new client"  />
+                <input type="submit" value="Create new client"/>
                 <input type="reset" value="Reset" /> <br />
             </form>
         </div>
