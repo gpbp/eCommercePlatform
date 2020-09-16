@@ -27,25 +27,4 @@
 		<url-pattern>/createCommand</url-pattern>
 	</servlet-mapping>
 	
-	<servlet>
-		<servlet-name>ClientInformation</servlet-name>
-		<servlet-class>com.trung.servlets.ClientInformation</servlet-class>
-		<load-on-startup>1</load-on-startup>
-	</servlet>
-	
-	<servlet-mapping>
-		<servlet-name>ClientInformation</servlet-name>
-		<url-pattern>/clientInformation</url-pattern>
-	</servlet-mapping>
-	
-	<servlet>
-		<servlet-name>CommandInformation</servlet-name>
-		<servlet-class>com.trung.servlets.CommandInformation</servlet-class>
-		<load-on-startup>1</load-on-startup>
-	</servlet>
-	
-	<servlet-mapping>
-		<servlet-name>CommandInformation</servlet-name>
-		<url-pattern>/commandInformation</url-pattern>
-	</servlet-mapping>
 </web-app>
